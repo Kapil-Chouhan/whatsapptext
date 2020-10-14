@@ -1,4 +1,4 @@
-#Impport pywhatkit library for sending whatsapp text
+#Import pywhatkit library for sending whatsapp text
 import pywhatkit as kit
 
 #sendwhatmsg() takes receiver phone number, text to be sent, also the hour and minute when it should be sent. 
